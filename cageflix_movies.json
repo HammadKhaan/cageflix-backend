@@ -1,0 +1,1479 @@
+[
+  {
+    "id": "tt0086216",
+    "title": "Rumble Fish",
+    "year": 1983,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.1,
+    "votes": 39971
+  },
+  {
+    "id": "tt0086525",
+    "title": "Valley Girl",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "rating": 6.4,
+    "votes": 19979
+  },
+  {
+    "id": "tt0086969",
+    "title": "Birdy",
+    "year": 1984,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "rating": 7.2,
+    "votes": 25995
+  },
+  {
+    "id": "tt0087089",
+    "title": "The Cotton Club",
+    "year": 1984,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "rating": 6.6,
+    "votes": 20483
+  },
+  {
+    "id": "tt0087968",
+    "title": "Racing with the Moon",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 6.6,
+    "votes": 5472
+  },
+  {
+    "id": "tt0090769",
+    "title": "The Boy in Blue",
+    "year": 1986,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "rating": 5.3,
+    "votes": 1501
+  },
+  {
+    "id": "tt0091738",
+    "title": "Peggy Sue Got Married",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 6.4,
+    "votes": 42706
+  },
+  {
+    "id": "tt0093565",
+    "title": "Moonstruck",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.2,
+    "votes": 74478
+  },
+  {
+    "id": "tt0093822",
+    "title": "Raising Arizona",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.3,
+    "votes": 156196
+  },
+  {
+    "id": "tt0095722",
+    "title": "Never on Tuesday",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 4.5,
+    "votes": 2365
+  },
+  {
+    "id": "tt0098577",
+    "title": "Vampire's Kiss",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "rating": 6.1,
+    "votes": 23306
+  },
+  {
+    "id": "tt0099575",
+    "title": "Fire Birds",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "rating": 4.8,
+    "votes": 7533
+  },
+  {
+    "id": "tt0100762",
+    "title": "Time to Kill",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "rating": 5.0,
+    "votes": 1084
+  },
+  {
+    "id": "tt0100935",
+    "title": "Wild at Heart",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 7.2,
+    "votes": 108137
+  },
+  {
+    "id": "tt0101004",
+    "title": "Zandalee",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "rating": 4.3,
+    "votes": 4399
+  },
+  {
+    "id": "tt0104438",
+    "title": "Honeymoon in Vegas",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "rating": 5.9,
+    "votes": 19840
+  },
+  {
+    "id": "tt0105226",
+    "title": "Red Rock West",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 7.0,
+    "votes": 26911
+  },
+  {
+    "id": "tt0106266",
+    "title": "Amos & Andrew",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 5.7,
+    "votes": 10226
+  },
+  {
+    "id": "tt0106684",
+    "title": "Deadfall",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 4.0,
+    "votes": 4037
+  },
+  {
+    "id": "tt0109390",
+    "title": "A Century of Cinema",
+    "year": 1994,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 6.5,
+    "votes": 342
+  },
+  {
+    "id": "tt0109951",
+    "title": "Guarding Tess",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 6.2,
+    "votes": 20229
+  },
+  {
+    "id": "tt0110167",
+    "title": "It Could Happen to You",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 6.4,
+    "votes": 46859
+  },
+  {
+    "id": "tt0111477",
+    "title": "Trapped in Paradise",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 5.9,
+    "votes": 17335
+  },
+  {
+    "id": "tt0113552",
+    "title": "Kiss of Death",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 6.0,
+    "votes": 20757
+  },
+  {
+    "id": "tt0113627",
+    "title": "Leaving Las Vegas",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.5,
+    "votes": 140891
+  },
+  {
+    "id": "tt0117500",
+    "title": "The Rock",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "rating": 7.4,
+    "votes": 370474
+  },
+  {
+    "id": "tt0118880",
+    "title": "Con Air",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 6.9,
+    "votes": 330952
+  },
+  {
+    "id": "tt0119094",
+    "title": "Face/Off",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "rating": 7.3,
+    "votes": 415231
+  },
+  {
+    "id": "tt0120632",
+    "title": "City of Angels",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "rating": 6.7,
+    "votes": 131746
+  },
+  {
+    "id": "tt0120832",
+    "title": "Snake Eyes",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 6.1,
+    "votes": 89866
+  },
+  {
+    "id": "tt0134273",
+    "title": "8MM",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 6.6,
+    "votes": 147755
+  },
+  {
+    "id": "tt0163988",
+    "title": "Bringing Out the Dead",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 6.9,
+    "votes": 79177
+  },
+  {
+    "id": "tt0187078",
+    "title": "Gone in 60 Seconds",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 6.5,
+    "votes": 303465
+  },
+  {
+    "id": "tt0189998",
+    "title": "Shadow of the Vampire",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "rating": 6.9,
+    "votes": 46694
+  },
+  {
+    "id": "tt0205314",
+    "title": "Inside the Golden Statue",
+    "year": 1998,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 5.8,
+    "votes": 31
+  },
+  {
+    "id": "tt0218967",
+    "title": "The Family Man",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 6.8,
+    "votes": 126266
+  },
+  {
+    "id": "tt0221823",
+    "title": "Bel Air",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 7.3,
+    "votes": 61
+  },
+  {
+    "id": "tt0238112",
+    "title": "Captain Corelli's Mandolin",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "rating": 5.9,
+    "votes": 36815
+  },
+  {
+    "id": "tt0245562",
+    "title": "Windtalkers",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "rating": 6.1,
+    "votes": 75636
+  },
+  {
+    "id": "tt0259324",
+    "title": "Ghost Rider",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "rating": 5.3,
+    "votes": 261697
+  },
+  {
+    "id": "tt0259929",
+    "title": "Christmas Carol: The Movie",
+    "year": 2001,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "rating": 5.3,
+    "votes": 2290
+  },
+  {
+    "id": "tt0268126",
+    "title": "Adaptation.",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 7.7,
+    "votes": 209074
+  },
+  {
+    "id": "tt0289992",
+    "title": "The Life of David Gale",
+    "year": 2003,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 7.5,
+    "votes": 129655
+  },
+  {
+    "id": "tt0305973",
+    "title": "Sonny",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 5.6,
+    "votes": 4747
+  },
+  {
+    "id": "tt0325805",
+    "title": "Matchstick Men",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.3,
+    "votes": 142373
+  },
+  {
+    "id": "tt0366625",
+    "title": "Spaghetti Requiem",
+    "year": 2001,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 7.6,
+    "votes": 30
+  },
+  {
+    "id": "tt0368891",
+    "title": "National Treasure",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "rating": 6.9,
+    "votes": 367633
+  },
+  {
+    "id": "tt0375568",
+    "title": "Astro Boy",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "rating": 6.2,
+    "votes": 41559
+  },
+  {
+    "id": "tt0384680",
+    "title": "The Weather Man",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 6.5,
+    "votes": 84953
+  },
+  {
+    "id": "tt0399295",
+    "title": "Lord of War",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.6,
+    "votes": 349677
+  },
+  {
+    "id": "tt0429589",
+    "title": "The Ant Bully",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "rating": 5.8,
+    "votes": 43215
+  },
+  {
+    "id": "tt0435705",
+    "title": "Next",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 6.2,
+    "votes": 171041
+  },
+  {
+    "id": "tt0448011",
+    "title": "Knowing",
+    "year": 2009,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 6.2,
+    "votes": 256439
+  },
+  {
+    "id": "tt0450345",
+    "title": "The Wicker Man",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 3.8,
+    "votes": 73440
+  },
+  {
+    "id": "tt0465234",
+    "title": "National Treasure: Book of Secrets",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "rating": 6.5,
+    "votes": 261755
+  },
+  {
+    "id": "tt0469641",
+    "title": "World Trade Center",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "rating": 6.0,
+    "votes": 89707
+  },
+  {
+    "id": "tt0479997",
+    "title": "Season of the Witch",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": 5.4,
+    "votes": 100713
+  },
+  {
+    "id": "tt0481499",
+    "title": "The Croods",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "rating": 7.1,
+    "votes": 243370
+  },
+  {
+    "id": "tt0763831",
+    "title": "A Thousand Words",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 5.9,
+    "votes": 46524
+  },
+  {
+    "id": "tt0805631",
+    "title": "Too Tough to Die: A Tribute to Johnny Ramone",
+    "year": 2006,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "rating": 7.3,
+    "votes": 252
+  },
+  {
+    "id": "tt0814022",
+    "title": "Bangkok Dangerous",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 5.3,
+    "votes": 59054
+  },
+  {
+    "id": "tt0963966",
+    "title": "The Sorcerer's Apprentice",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "rating": 6.1,
+    "votes": 173751
+  },
+  {
+    "id": "tt10011412",
+    "title": "You Don't Nomi",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 6.7,
+    "votes": 1345
+  },
+  {
+    "id": "tt10690676",
+    "title": "Dark",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 6.0,
+    "votes": 559
+  },
+  {
+    "id": "tt1071875",
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "rating": 4.3,
+    "votes": 130612
+  },
+  {
+    "id": "tt1095217",
+    "title": "Bad Lieutenant: Port of Call New Orleans",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 6.6,
+    "votes": 83121
+  },
+  {
+    "id": "tt11003218",
+    "title": "Pig",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 6.9,
+    "votes": 99535
+  },
+  {
+    "id": "tt11291274",
+    "title": "The Unbearable Weight of Massive Talent",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.0,
+    "votes": 170913
+  },
+  {
+    "id": "tt11358390",
+    "title": "Renfield",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "rating": 6.4,
+    "votes": 112697
+  },
+  {
+    "id": "tt1214962",
+    "title": "Seeking Justice",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 6.1,
+    "votes": 48803
+  },
+  {
+    "id": "tt1250777",
+    "title": "Kick-Ass",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 7.6,
+    "votes": 609947
+  },
+  {
+    "id": "tt1274586",
+    "title": "Dying of the Light",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 4.5,
+    "votes": 11924
+  },
+  {
+    "id": "tt1462759",
+    "title": "Butcher's Crossing",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "rating": 5.6,
+    "votes": 6608
+  },
+  {
+    "id": "tt14731254",
+    "title": "Val",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "rating": 7.6,
+    "votes": 15733
+  },
+  {
+    "id": "tt14827638",
+    "title": "The Retirement Plan",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 5.1,
+    "votes": 10025
+  },
+  {
+    "id": "tt1502404",
+    "title": "Drive Angry",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "rating": 5.4,
+    "votes": 105307
+  },
+  {
+    "id": "tt1552224",
+    "title": "Outcast",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "rating": 4.6,
+    "votes": 14668
+  },
+  {
+    "id": "tt15701326",
+    "title": "Ah My Goddess: Bad Goddess Touched by an Angel",
+    "year": 2021,
+    "genres": [
+      "Animation"
+    ],
+    "rating": 5.7,
+    "votes": 9
+  },
+  {
+    "id": "tt1610013",
+    "title": "Can't Stand Losing You: Surviving the Police",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "rating": 6.9,
+    "votes": 929
+  },
+  {
+    "id": "tt16360004",
+    "title": "Spider-Man: Beyond the Spider-Verse",
+    "year": 2027,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "rating": null,
+    "votes": null
+  },
+  {
+    "id": "tt1640715",
+    "title": "The Courtship of Eddie's Father",
+    "year": null,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": null,
+    "votes": null
+  },
+  {
+    "id": "tt1656186",
+    "title": "Stolen",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 5.5,
+    "votes": 47138
+  },
+  {
+    "id": "tt1674784",
+    "title": "Trespass",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 5.3,
+    "votes": 46646
+  },
+  {
+    "id": "tt2005374",
+    "title": "The Frozen Ground",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 6.4,
+    "votes": 70948
+  },
+  {
+    "id": "tt2032572",
+    "title": "USS Indianapolis: Men of Courage",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "rating": 5.3,
+    "votes": 14978
+  },
+  {
+    "id": "tt21942866",
+    "title": "Dream Scenario",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 6.8,
+    "votes": 85969
+  },
+  {
+    "id": "tt21991654",
+    "title": "Sympathy for the Devil",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 5.5,
+    "votes": 12863
+  },
+  {
+    "id": "tt22939186",
+    "title": "Arcadian",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "rating": 5.5,
+    "votes": 24137
+  },
+  {
+    "id": "tt23468450",
+    "title": "Longlegs",
+    "year": 2024,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "rating": 6.6,
+    "votes": 191415
+  },
+  {
+    "id": "tt2382396",
+    "title": "Joe",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 6.8,
+    "votes": 52583
+  },
+  {
+    "id": "tt2401807",
+    "title": "Rage",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 5.0,
+    "votes": 26044
+  },
+  {
+    "id": "tt2467046",
+    "title": "Left Behind",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "rating": 3.1,
+    "votes": 43718
+  },
+  {
+    "id": "tt24818230",
+    "title": "Madden",
+    "year": null,
+    "genres": [
+      "Biography"
+    ],
+    "rating": null,
+    "votes": null
+  },
+  {
+    "id": "tt24850708",
+    "title": "Gunslingers",
+    "year": 2025,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "rating": 3.6,
+    "votes": 1327
+  },
+  {
+    "id": "tt2646218",
+    "title": "Was ich bin sind meine Filme - Teil 2... nach 30 Jahren",
+    "year": 2010,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 5.9,
+    "votes": 16
+  },
+  {
+    "id": "tt27706987",
+    "title": "Lords of War",
+    "year": null,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "rating": null,
+    "votes": null
+  },
+  {
+    "id": "tt27813235",
+    "title": "The Surfer",
+    "year": 2024,
+    "genres": [
+      "Thriller"
+    ],
+    "rating": 6.3,
+    "votes": 4648
+  },
+  {
+    "id": "tt2850386",
+    "title": "The Croods: A New Age",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "rating": 6.9,
+    "votes": 57638
+  },
+  {
+    "id": "tt32304349",
+    "title": "The Carpenter's Son",
+    "year": 2025,
+    "genres": [
+      "Horror"
+    ],
+    "rating": null,
+    "votes": null
+  },
+  {
+    "id": "tt32604452",
+    "title": "The Prince",
+    "year": null,
+    "genres": [
+      "Drama"
+    ],
+    "rating": null,
+    "votes": null
+  },
+  {
+    "id": "tt33384287",
+    "title": "Shadowland",
+    "year": 2024,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 6.5,
+    "votes": 188
+  },
+  {
+    "id": "tt3481634",
+    "title": "Inconceivable",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 5.2,
+    "votes": 11200
+  },
+  {
+    "id": "tt3687398",
+    "title": "The Runner",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 4.7,
+    "votes": 6104
+  },
+  {
+    "id": "tt3696140",
+    "title": "Hollywood Waterloo",
+    "year": 1994,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": null,
+    "votes": null
+  },
+  {
+    "id": "tt3733774",
+    "title": "The Trust",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 5.5,
+    "votes": 21505
+  },
+  {
+    "id": "tt3733778",
+    "title": "Pay the Ghost",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "rating": 5.2,
+    "votes": 19643
+  },
+  {
+    "id": "tt3758162",
+    "title": "A Score to Settle",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 4.8,
+    "votes": 7524
+  },
+  {
+    "id": "tt4054654",
+    "title": "Dog Eat Dog",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 4.8,
+    "votes": 10113
+  },
+  {
+    "id": "tt4382824",
+    "title": "Army of One",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 5.2,
+    "votes": 9441
+  },
+  {
+    "id": "tt4976192",
+    "title": "211",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "rating": 4.4,
+    "votes": 10105
+  },
+  {
+    "id": "tt5073642",
+    "title": "Color Out of Space",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "rating": 6.1,
+    "votes": 61651
+  },
+  {
+    "id": "tt5460530",
+    "title": "Vengeance: A Love Story",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "rating": 5.2,
+    "votes": 9493
+  },
+  {
+    "id": "tt5462326",
+    "title": "Mom and Dad",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "rating": 5.6,
+    "votes": 28929
+  },
+  {
+    "id": "tt5580536",
+    "title": "Arsenal",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 4.0,
+    "votes": 5181
+  },
+  {
+    "id": "tt5792656",
+    "title": "Running with the Devil",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 5.4,
+    "votes": 11037
+  },
+  {
+    "id": "tt6083648",
+    "title": "Looking Glass",
+    "year": 2018,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 4.7,
+    "votes": 8513
+  },
+  {
+    "id": "tt6143568",
+    "title": "The Humanity Bureau",
+    "year": 2017,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 4.5,
+    "votes": 12465
+  },
+  {
+    "id": "tt6372694",
+    "title": "Prisoners of the Ghostland",
+    "year": 2021,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "rating": 4.2,
+    "votes": 15138
+  },
+  {
+    "id": "tt6763730",
+    "title": "Becoming Iconic",
+    "year": 2018,
+    "genres": [
+      "Biography"
+    ],
+    "rating": 6.4,
+    "votes": 202
+  },
+  {
+    "id": "tt6998518",
+    "title": "Mandy",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "rating": 6.5,
+    "votes": 95690
+  },
+  {
+    "id": "tt7295450",
+    "title": "Between Worlds",
+    "year": 2018,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 3.9,
+    "votes": 8246
+  },
+  {
+    "id": "tt7394816",
+    "title": "Primal",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 4.9,
+    "votes": 12008
+  },
+  {
+    "id": "tt8114980",
+    "title": "Willy's Wonderland",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "rating": 5.5,
+    "votes": 41940
+  },
+  {
+    "id": "tt8380776",
+    "title": "Grand Isle",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 4.7,
+    "votes": 6122
+  },
+  {
+    "id": "tt8535180",
+    "title": "Kill Chain",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 5.0,
+    "votes": 6258
+  },
+  {
+    "id": "tt8593824",
+    "title": "The Old Way",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "rating": 5.5,
+    "votes": 10299
+  },
+  {
+    "id": "tt9351746",
+    "title": "Love, Antosha",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "rating": 8.1,
+    "votes": 1857
+  },
+  {
+    "id": "tt9624766",
+    "title": "Jiu Jitsu",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 2.9,
+    "votes": 11007
+  }
+]

@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+venv/
+.env
+*.pyc
+imdb/
+imdb_to_json.py
