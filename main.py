@@ -6,38 +6,42 @@ import json
 import requests
 
 
-# Load environment variables
 load_dotenv()
 OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 
-# Load movie data once at startup
 with open("cageflix_movies.json", "r", encoding="utf-8") as f:
     MOVIES = json.load(f)
 
 app = FastAPI(title="Cageflix API")
 
-# Enable CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://cage-flix.netlify.app"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# In-memory poster cache
 poster_cache = {}
 
 
 @app.get("/movies")
-def get_movies(genre: str = Query(None)):
+def get_movies(
+    genre: str = Query(None),
+    limit: int = Query(20, ge=1),
+    offset: int = Query(0, ge=0)
+):
+    filtered = MOVIES
     if genre:
         filtered = [
             movie for movie in MOVIES
             if genre.lower() in [g.lower() for g in movie.get("genres", [])]
         ]
-        return filtered
-    return MOVIES
+
+    return {
+        "total": len(filtered),
+        "results": filtered[offset:offset + limit]
+    }
 
 @app.get("/movies/{movie_id}")
 def get_movie_by_id(movie_id: str):
