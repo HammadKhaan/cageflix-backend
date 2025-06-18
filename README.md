@@ -39,7 +39,6 @@ A simple backend service for managing and serving movie data, possibly focused o
 
 Or directly
 
-    ```bash
     python main.py
 
 
